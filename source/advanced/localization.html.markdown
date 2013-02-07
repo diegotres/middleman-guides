@@ -43,7 +43,7 @@ This would output two files:
 
 Each individual language is accessible in its own namespaced path. By default, the first language lives at the root of the site (see below to change this option). The default path is to simply use the language name (the name of the YAML file) in the path:
 
-* /en/index/html
+* /en/index.html
 * /es/index.html
 * /fr/index.html
 
